@@ -1,3 +1,4 @@
+![logo](https://github.com/Shyam6208/Shyam6208/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Shyam Kumar</h1>
 <h3 align="center">Web Development Enthusiast Learning & Innovating at SDIET [YMCA University]</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/70c1e4e4-35a4-4894-a6f2-61e5630e7d3f">
