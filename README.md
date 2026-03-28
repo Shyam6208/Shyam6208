@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/-Shyam_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
 <a href="https://instagram.com/x_shyam_12">
-  <img src="https://img.shields.io/badge/-shyam__nex__gen-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-x__shyam__12-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>&nbsp;
 <a href="mailto:shyam.s6208@gmail.com">
   <img src="https://img.shields.io/badge/-shyam.s6208-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
