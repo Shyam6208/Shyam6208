@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/shyam-kumar-882a31325">
   <img src="https://img.shields.io/badge/-Shyam_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
-<a href="https://instagram.com/shyam_nex_gen">
+<a href="https://instagram.com/x_shyam_12">
   <img src="https://img.shields.io/badge/-shyam__nex__gen-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>&nbsp;
 <a href="mailto:shyam.s6208@gmail.com">
